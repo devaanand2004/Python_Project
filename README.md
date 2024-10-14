@@ -1,1 +1,3 @@
 # Python_Project
+
+Python project focuses on creating a user-friendly tool that simplifies price comparison between two major e-commerce platforms, Amazon and Flipkart. Users can input the name of a product, and the tool will automatically scrape the latest prices from both websites. Once the prices are retrieved, the program will compare them and display the lowest available price, accompanied by a direct link to the product. This streamlined process empowers users to make informed purchasing decisions quickly, ensuring they get the best value without the need to manually browse through multiple websites.
