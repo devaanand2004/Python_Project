@@ -1,0 +1,330 @@
+2024-10-07 23:30:17,202:INFO:Price found on Amazon: 69,900
+2024-10-07 23:30:17,202:INFO:Amazon - Current price: \u20b969900.0
+2024-10-07 23:30:19,102:INFO:Price found on Flipkart: \u20b958,999
+2024-10-07 23:30:19,104:INFO:Flipkart - Current price: \u20b958999.0
+2024-10-07 23:30:19,104:INFO:Lowest price found: \u20b958999.0 at Flipkart - Link: https://www.flipkart.com/search?q=iPhone+15
+2024-10-07 23:38:10,339:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss
+2024-10-07 23:38:11,092:INFO:Price found on Flipkart: \u20b958,999
+2024-10-07 23:38:11,129:INFO:Flipkart - Current price: \u20b958999.0
+2024-10-07 23:38:11,138:INFO:Lowest price found: \u20b958999.0 at Flipkart - Link: https://www.flipkart.com/search?q=iPhone+15
+2024-10-07 23:40:37,004:INFO:Price found on Amazon: 69,900
+2024-10-07 23:40:37,018:INFO:Amazon - Current price: \u20b969900.0
+2024-10-07 23:40:37,843:INFO:Price found on Flipkart: \u20b958,999
+2024-10-07 23:40:37,881:INFO:Flipkart - Current price: \u20b958999.0
+2024-10-07 23:40:37,882:INFO:Lowest price found: \u20b958999.0 at Flipkart - Link: https://www.flipkart.com/search?q=iPhone+15
+2024-10-07 23:43:28,452:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss
+2024-10-07 23:43:29,370:INFO:Price found on Flipkart: \u20b958,999
+2024-10-07 23:43:29,395:INFO:Flipkart - Current price: \u20b958999.0
+2024-10-07 23:43:29,403:INFO:Lowest price found: \u20b958999.0 at Flipkart - Link: https://www.flipkart.com/search?q=iPhone+15
+2024-10-07 23:44:34,084:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss
+2024-10-07 23:44:34,809:INFO:Price found on Flipkart: \u20b958,999
+2024-10-07 23:44:34,840:INFO:Flipkart - Current price: \u20b958999.0
+2024-10-07 23:44:34,848:INFO:Lowest price found: \u20b958999.0 at Flipkart - Link: https://www.flipkart.com/search?q=iPhone+15
+2024-10-07 23:44:40,340:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss
+2024-10-07 23:44:41,057:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss
+2024-10-07 23:44:41,107:INFO:Price found on Flipkart: \u20b958,999
+2024-10-07 23:44:41,224:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss
+2024-10-07 23:44:41,500:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss
+2024-10-07 23:44:41,723:INFO:Price found on Flipkart: \u20b958,999
+2024-10-07 23:44:41,972:INFO:Price found on Flipkart: \u20b958,999
+2024-10-07 23:44:42,188:INFO:Price found on Flipkart: \u20b958,999
+2024-10-07 23:44:42,224:INFO:Flipkart - Current price: \u20b958999.0
+2024-10-07 23:44:42,224:INFO:Lowest price found: \u20b958999.0 at Flipkart - Link: https://www.flipkart.com/search?q=iPhone+15
+2024-10-07 23:46:13,520:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss
+2024-10-07 23:46:14,338:INFO:Price found on Flipkart: \u20b958,999
+2024-10-07 23:46:14,373:INFO:Flipkart - Current price: \u20b958999.0
+2024-10-07 23:46:14,378:INFO:Lowest price found: \u20b958999.0 at Flipkart - Link: https://www.flipkart.com/search?q=iPhone+15
+2024-10-07 23:47:08,001:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss
+2024-10-07 23:47:08,720:INFO:Price found on Flipkart: \u20b958,999
+2024-10-07 23:47:08,754:INFO:Flipkart - Current price: \u20b958999.0
+2024-10-07 23:47:08,754:INFO:Lowest price found: \u20b958999.0 at Flipkart - Link: https://www.flipkart.com/search?q=iPhone+15
+2024-10-07 23:47:22,628:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss
+2024-10-07 23:47:23,604:INFO:Price found on Flipkart: \u20b958,999
+2024-10-07 23:47:23,625:INFO:Flipkart - Current price: \u20b958999.0
+2024-10-07 23:47:23,633:INFO:Lowest price found: \u20b958999.0 at Flipkart - Link: https://www.flipkart.com/search?q=iPhone+15
+2024-10-07 23:52:38,347:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+13&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+13&ref=nb_sb_noss
+2024-10-07 23:52:39,107:INFO:Price found on Flipkart: \u20b940,999
+2024-10-07 23:52:39,139:INFO:Flipkart - Current price: \u20b940999.0
+2024-10-07 23:52:39,139:INFO:Lowest price found: \u20b940999.0 at Flipkart - Link: https://www.flipkart.com/search?q=iPhone+13
+2024-10-07 23:56:54,863:INFO:Price found on Amazon: 69,900
+2024-10-07 23:56:54,881:INFO:Amazon - Current price: \u20b969900.0
+2024-10-07 23:56:56,016:INFO:Price found on Flipkart: \u20b958,999
+2024-10-07 23:56:56,045:INFO:Flipkart - Current price: \u20b958999.0
+2024-10-07 23:56:56,045:INFO:Lowest price found: \u20b958999.0 at Flipkart - Link: https://www.flipkart.com/search?q=iPhone+15
+2024-10-08 00:02:23,887:INFO:Price found on Amazon: 69,900
+2024-10-08 00:02:23,901:INFO:Amazon - Current price: \u20b969900.0
+2024-10-08 00:02:25,020:INFO:Price found on Flipkart: \u20b958,999
+2024-10-08 00:02:25,067:INFO:Flipkart - Current price: \u20b958999.0
+2024-10-08 00:02:25,072:INFO:Lowest price found: \u20b958999.0 at Flipkart - Link: https://www.flipkart.com/search?q=iPhone+15
+2024-10-08 00:05:28,609:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss
+2024-10-08 00:05:29,685:INFO:Price found on Flipkart: \u20b958,999
+2024-10-08 00:05:29,717:INFO:Flipkart - Current price: \u20b958999.0
+2024-10-08 00:05:29,725:INFO:Lowest price found: \u20b958999.0 at Flipkart - Link: https://www.flipkart.com/search?q=iPhone+15
+2024-10-08 00:06:58,817:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss
+2024-10-08 00:07:00,292:INFO:Price found on Flipkart: \u20b958,999
+2024-10-08 00:07:00,338:INFO:Flipkart - Current price: \u20b958999.0
+2024-10-08 00:07:00,342:INFO:Lowest price found: \u20b958999.0 at Flipkart - Link: https://www.flipkart.com/search?q=iPhone+15
+2024-10-08 00:10:20,408:INFO:Price found on Amazon: 69,900
+2024-10-08 00:10:20,431:INFO:Amazon - Current price: \u20b969900.0
+2024-10-08 00:10:21,258:INFO:Price found on Flipkart: \u20b958,999
+2024-10-08 00:10:21,280:INFO:Flipkart - Current price: \u20b958999.0
+2024-10-08 00:10:21,280:INFO:Lowest price found: \u20b958999.0 at Flipkart - Link: https://www.flipkart.com/search?q=iPhone+15
+2024-10-08 00:13:27,743:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss
+2024-10-08 00:13:28,734:INFO:Price found on Flipkart: \u20b958,999
+2024-10-08 00:13:28,776:INFO:Flipkart - Current price: \u20b958999.0
+2024-10-08 00:13:28,783:INFO:Lowest price found: \u20b958999.0 at Flipkart - Link: https://www.flipkart.com/search?q=iPhone+15
+2024-10-08 00:17:54,323:INFO:Price found on Amazon: 79,900
+2024-10-08 00:17:55,177:INFO:Price found on Flipkart: \u20b979,900
+2024-10-08 00:17:55,208:WARNING:No prices found.
+2024-10-08 00:18:05,924:INFO:Price found on Amazon: 69,900
+2024-10-08 00:18:06,739:INFO:Price found on Flipkart: \u20b958,999
+2024-10-08 00:18:06,768:WARNING:No prices found.
+2024-10-08 00:18:21,688:INFO:Price found on Amazon: 69,900
+2024-10-08 00:18:21,699:INFO:Amazon - Current price: \u20b969900.0
+2024-10-08 00:18:23,028:INFO:Price found on Flipkart: \u20b958,999
+2024-10-08 00:18:23,054:INFO:Flipkart - Current price: \u20b958999.0
+2024-10-08 00:18:23,054:INFO:Lowest price found: \u20b958999.0 at Flipkart - Link: https://www.flipkart.com/search?q=iphone+15
+2024-10-08 00:23:14,883:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss
+2024-10-08 00:23:15,591:INFO:Price found on Flipkart: \u20b958,999
+2024-10-08 00:23:15,608:INFO:Flipkart - Current price: \u20b958999.0
+2024-10-08 00:23:15,611:INFO:Lowest price found: \u20b958999.0 at Flipkart - Link: https://www.flipkart.com/search?q=iPhone+15
+2024-10-08 00:23:56,712:INFO:Price found on Amazon: 69,900
+2024-10-08 00:23:56,727:INFO:Amazon - Current price: \u20b969900.0
+2024-10-08 00:23:57,403:INFO:Price found on Flipkart: \u20b958,999
+2024-10-08 00:23:57,427:INFO:Flipkart - Current price: \u20b958999.0
+2024-10-08 00:23:57,428:INFO:Lowest price found: \u20b958999.0 at Flipkart - Link: https://www.flipkart.com/search?q=iPhone+15
+2024-10-08 00:26:26,857:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss
+2024-10-08 00:26:27,759:INFO:Price found on Flipkart: \u20b958,999
+2024-10-08 00:26:27,780:INFO:Flipkart - Current price: \u20b958999.0
+2024-10-08 00:26:27,780:INFO:Lowest price found: \u20b958999.0 at Flipkart - Link: https://www.flipkart.com/search?q=iPhone+15
+2024-10-08 00:28:48,932:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss
+2024-10-08 00:28:49,853:INFO:Price found on Flipkart: \u20b958,999
+2024-10-08 00:28:49,879:INFO:Flipkart - Current price: \u20b958999.0
+2024-10-08 00:28:49,879:INFO:Lowest price found: \u20b958999.0 at Flipkart - Link: https://www.flipkart.com/search?q=iPhone+15
+2024-10-08 00:31:56,367:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss
+2024-10-08 00:31:57,352:INFO:Price found on Flipkart: \u20b958,999
+2024-10-08 00:31:57,375:INFO:Flipkart - Current price: \u20b958999.0
+2024-10-08 00:31:57,375:INFO:Lowest price found: \u20b958999.0 at Flipkart - Link: https://www.flipkart.com/search?q=iPhone+15
+2024-10-08 00:32:56,350:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iphone+15&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iphone+15&ref=nb_sb_noss
+2024-10-08 00:32:57,487:INFO:Price found on Flipkart: \u20b958,999
+2024-10-08 00:32:57,514:INFO:Flipkart - Current price: \u20b958999.0
+2024-10-08 00:32:57,514:INFO:Lowest price found: \u20b958999.0 at Flipkart - Link: https://www.flipkart.com/search?q=iphone+15
+2024-10-08 00:36:21,740:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss
+2024-10-08 00:36:22,615:INFO:Successfully fetched page content for https://www.flipkart.com/search?q=iPhone+15
+2024-10-08 00:36:22,636:INFO:Price found on Flipkart: \u20b958,999
+2024-10-08 00:36:22,659:INFO:Flipkart - Current price: \u20b958999.0
+2024-10-08 00:36:22,659:INFO:Lowest price found: \u20b958999.0 at Flipkart - Link: https://www.flipkart.com/search?q=iPhone+15
+2024-10-08 00:36:25,036:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss
+2024-10-08 00:36:25,658:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss
+2024-10-08 00:36:25,791:INFO:Successfully fetched page content for https://www.flipkart.com/search?q=iPhone+15
+2024-10-08 00:36:25,813:INFO:Price found on Flipkart: \u20b958,999
+2024-10-08 00:36:25,847:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss
+2024-10-08 00:36:26,025:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss
+2024-10-08 00:36:26,258:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss
+2024-10-08 00:36:26,434:INFO:Successfully fetched page content for https://www.flipkart.com/search?q=iPhone+15
+2024-10-08 00:36:26,469:INFO:Price found on Flipkart: \u20b958,999
+2024-10-08 00:36:26,668:INFO:Successfully fetched page content for https://www.flipkart.com/search?q=iPhone+15
+2024-10-08 00:36:26,713:INFO:Price found on Flipkart: \u20b958,999
+2024-10-08 00:36:26,808:INFO:Successfully fetched page content for https://www.flipkart.com/search?q=iPhone+15
+2024-10-08 00:36:26,847:INFO:Price found on Flipkart: \u20b958,999
+2024-10-08 00:36:27,137:INFO:Successfully fetched page content for https://www.flipkart.com/search?q=iPhone+15
+2024-10-08 00:36:27,152:INFO:Price found on Flipkart: \u20b958,999
+2024-10-08 00:36:27,171:INFO:Flipkart - Current price: \u20b958999.0
+2024-10-08 00:36:27,171:INFO:Lowest price found: \u20b958999.0 at Flipkart - Link: https://www.flipkart.com/search?q=iPhone+15
+2024-10-08 00:37:36,267:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss
+2024-10-08 00:37:37,161:INFO:Price found on Flipkart: \u20b958,999
+2024-10-08 00:37:37,177:INFO:Flipkart - Current price: \u20b958999.0
+2024-10-08 00:37:37,183:INFO:Lowest price found: \u20b958999.0 at Flipkart - Link: https://www.flipkart.com/search?q=iPhone+15
+2024-10-08 00:39:43,626:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss
+2024-10-08 00:39:44,610:INFO:Price found on Flipkart: \u20b958,999
+2024-10-08 00:39:44,627:INFO:Flipkart - Current price: \u20b958999.0
+2024-10-08 00:39:44,628:INFO:Lowest price found: \u20b958999.0 at Flipkart - Link: https://www.flipkart.com/search?q=iPhone+15
+2024-10-08 00:42:25,745:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss
+2024-10-08 00:42:26,763:INFO:Price found on Flipkart: \u20b958,999
+2024-10-08 00:42:26,777:INFO:Flipkart - Current price: \u20b958999.0
+2024-10-08 00:42:26,777:INFO:Lowest price found: \u20b958999.0 at Flipkart - Link: https://www.flipkart.com/search?q=iPhone+15
+2024-10-08 00:45:03,661:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss
+2024-10-08 00:45:04,544:INFO:Price found on Flipkart: \u20b958,999
+2024-10-08 00:45:04,569:INFO:Flipkart - Current price: \u20b958999.0
+2024-10-08 00:45:04,573:INFO:Lowest price found: \u20b958999.0 at Flipkart - Link: https://www.flipkart.com/search?q=iPhone+15
+2024-10-08 00:47:05,802:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss
+2024-10-08 00:47:06,962:INFO:Price found on Flipkart: \u20b958,999
+2024-10-08 00:47:06,980:INFO:Flipkart - Current price: \u20b958999.0
+2024-10-08 00:47:06,981:INFO:Lowest price found: \u20b958999.0 at Flipkart - Link: https://www.flipkart.com/search?q=iPhone+15
+2024-10-08 00:51:09,986:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss
+2024-10-08 00:51:10,956:INFO:Price found on Flipkart: \u20b958,999
+2024-10-08 00:51:10,973:INFO:Flipkart - Current price: \u20b958999.0
+2024-10-08 00:51:10,973:INFO:Lowest price found: \u20b958999.0 at Flipkart - Link: https://www.flipkart.com/search?q=iPhone+15
+2024-10-08 00:51:55,860:INFO:Price found on Amazon: 3,999
+2024-10-08 00:51:55,882:INFO:Amazon - Current price: \u20b93999.0
+2024-10-08 00:51:56,780:INFO:Price found on Flipkart: \u20b96,399
+2024-10-08 00:51:56,802:INFO:Flipkart - Current price: \u20b96399.0
+2024-10-08 00:51:56,804:INFO:Lowest price found: \u20b93999.0 at Amazon - Link: https://www.amazon.in/s?k=JBL+Tune+760NC&ref=nb_sb_noss
+2024-10-08 01:07:13,019:ERROR:HTTP error occurred for https://www.amazon.in/s?k=JBL+Tune+760NC&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=JBL+Tune+760NC&ref=nb_sb_noss
+2024-10-08 01:07:13,887:INFO:Price found on Flipkart: \u20b96,399
+2024-10-08 01:07:13,941:INFO:Flipkart - Current price: \u20b96399.0
+2024-10-08 01:07:13,947:INFO:Lowest price found: \u20b96399.0 at Flipkart - Link: https://www.flipkart.com/search?q=JBL+Tune+760NC
+2024-10-08 01:07:40,778:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss
+2024-10-08 01:07:41,692:INFO:Price found on Flipkart: \u20b958,999
+2024-10-08 01:07:41,745:INFO:Flipkart - Current price: \u20b958999.0
+2024-10-08 01:07:41,745:INFO:Lowest price found: \u20b958999.0 at Flipkart - Link: https://www.flipkart.com/search?q=iPhone+15
+2024-10-08 01:08:15,014:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss
+2024-10-08 01:08:15,858:INFO:Price found on Flipkart: \u20b958,999
+2024-10-08 01:08:15,902:INFO:Flipkart - Current price: \u20b958999.0
+2024-10-08 01:08:15,902:INFO:Lowest price found: \u20b958999.0 at Flipkart - Link: https://www.flipkart.com/search?q=iPhone+15
+2024-10-08 01:13:56,185:INFO:Price found on Amazon: 3,999
+2024-10-08 01:13:56,194:INFO:Amazon - Current price: \u20b93999.0
+2024-10-08 01:13:56,775:INFO:Price found on Flipkart: \u20b96,399
+2024-10-08 01:13:56,806:INFO:Flipkart - Current price: \u20b96399.0
+2024-10-08 01:13:56,806:INFO:Lowest price found: \u20b93999.0 at Amazon - Link: https://www.amazon.in/s?k=JBL+Tune+760NC&ref=nb_sb_noss
+2024-10-08 01:21:28,838:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss
+2024-10-08 01:21:29,574:INFO:Price found on Flipkart: \u20b958,999
+2024-10-08 01:21:29,614:INFO:Flipkart - Current price: \u20b958999.0
+2024-10-08 01:21:29,615:INFO:Lowest price found: \u20b958999.0 at Flipkart - Link: https://www.flipkart.com/search?q=iPhone+15
+2024-10-08 01:21:45,734:ERROR:HTTP error occurred for https://www.amazon.in/s?k=JBL+Tune+760NC&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=JBL+Tune+760NC&ref=nb_sb_noss
+2024-10-08 01:21:46,494:INFO:Price found on Flipkart: \u20b96,399
+2024-10-08 01:21:46,526:INFO:Flipkart - Current price: \u20b96399.0
+2024-10-08 01:21:46,531:INFO:Lowest price found: \u20b96399.0 at Flipkart - Link: https://www.flipkart.com/search?q=JBL+Tune+760NC
+2024-10-08 01:23:08,997:ERROR:HTTP error occurred for https://www.amazon.in/s?k=JBL+Tune+760NC&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=JBL+Tune+760NC&ref=nb_sb_noss
+2024-10-08 01:23:09,717:INFO:Price found on Flipkart: \u20b96,399
+2024-10-08 01:23:09,757:INFO:Flipkart - Current price: \u20b96399.0
+2024-10-08 01:23:09,760:INFO:Lowest price found: \u20b96399.0 at Flipkart - Link: https://www.flipkart.com/search?q=JBL+Tune+760NC
+2024-10-08 01:26:53,292:ERROR:HTTP error occurred for https://www.amazon.in/s?k=JBL+Tune+760NC&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=JBL+Tune+760NC&ref=nb_sb_noss
+2024-10-08 01:26:53,985:INFO:Price found on Flipkart: \u20b96,399
+2024-10-08 01:26:54,024:INFO:Flipkart - Current price: \u20b96399.0
+2024-10-08 01:26:54,032:INFO:Lowest price found: \u20b96399.0 at Flipkart - Link: https://www.flipkart.com/search?q=JBL+Tune+760NC
+2024-10-08 01:27:51,611:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+14&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+14&ref=nb_sb_noss
+2024-10-08 01:27:52,654:INFO:Price found on Flipkart: \u20b960,999
+2024-10-08 01:27:52,686:INFO:Flipkart - Current price: \u20b960999.0
+2024-10-08 01:27:52,692:INFO:Lowest price found: \u20b960999.0 at Flipkart - Link: https://www.flipkart.com/search?q=iPhone+14
+2024-10-08 01:28:21,182:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+14&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+14&ref=nb_sb_noss
+2024-10-08 01:28:22,127:INFO:Price found on Flipkart: \u20b960,999
+2024-10-08 01:28:22,160:INFO:Flipkart - Current price: \u20b960999.0
+2024-10-08 01:28:22,160:INFO:Lowest price found: \u20b960999.0 at Flipkart - Link: https://www.flipkart.com/search?q=iPhone+14
+2024-10-08 01:28:23,858:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+14&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+14&ref=nb_sb_noss
+2024-10-08 01:28:24,217:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+14&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+14&ref=nb_sb_noss
+2024-10-08 01:28:24,416:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+14&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+14&ref=nb_sb_noss
+2024-10-08 01:28:24,589:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+14&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+14&ref=nb_sb_noss
+2024-10-08 01:28:24,641:INFO:Price found on Flipkart: \u20b960,999
+2024-10-08 01:28:25,077:INFO:Price found on Flipkart: \u20b960,999
+2024-10-08 01:28:25,260:INFO:Price found on Amazon: 59,900
+2024-10-08 01:28:25,308:INFO:Price found on Flipkart: \u20b960,999
+2024-10-08 01:28:25,394:INFO:Price found on Flipkart: \u20b960,999
+2024-10-08 01:28:25,425:INFO:Flipkart - Current price: \u20b960999.0
+2024-10-08 01:28:25,425:INFO:Lowest price found: \u20b960999.0 at Flipkart - Link: https://www.flipkart.com/search?q=iPhone+14
+2024-10-08 01:28:46,498:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+12&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+12&ref=nb_sb_noss
+2024-10-08 01:28:47,383:INFO:Price found on Flipkart: \u20b930,999
+2024-10-08 01:28:47,412:INFO:Flipkart - Current price: \u20b930999.0
+2024-10-08 01:28:47,412:INFO:Lowest price found: \u20b930999.0 at Flipkart - Link: https://www.flipkart.com/search?q=iPhone+12
+2024-10-08 01:30:29,681:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+X&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+X&ref=nb_sb_noss
+2024-10-08 01:30:30,702:INFO:Price found on Flipkart: \u20b91,06,900
+2024-10-08 01:30:30,737:INFO:Flipkart - Current price: \u20b9106900.0
+2024-10-08 01:30:30,737:INFO:Lowest price found: \u20b9106900.0 at Flipkart - Link: https://www.flipkart.com/search?q=iPhone+X
+2024-10-08 01:34:48,597:ERROR:HTTP error occurred for https://www.amazon.in/s?k=JBL+Tune+760NC&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=JBL+Tune+760NC&ref=nb_sb_noss
+2024-10-08 01:34:49,363:INFO:Price found on Flipkart: \u20b96,399
+2024-10-08 01:34:49,395:INFO:Flipkart - Current price: \u20b96399.0
+2024-10-08 01:34:49,403:INFO:Lowest price found: \u20b96399.0 at Flipkart - Link: https://www.flipkart.com/search?q=JBL+Tune+760NC
+2024-10-08 01:35:44,203:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss
+2024-10-08 01:35:45,305:INFO:Price found on Flipkart: \u20b958,999
+2024-10-08 01:35:45,339:INFO:Flipkart - Current price: \u20b958999.0
+2024-10-08 01:35:45,339:INFO:Lowest price found: \u20b958999.0 at Flipkart - Link: https://www.flipkart.com/search?q=iPhone+15
+2024-10-08 09:13:35,585:ERROR:Request error for https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss: HTTPSConnectionPool(host='www.amazon.in', port=443): Max retries exceeded with url: /s?k=iPhone+15&ref=nb_sb_noss (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000022EB213A2D0>: Failed to resolve 'www.amazon.in' ([Errno 11001] getaddrinfo failed)"))
+2024-10-08 09:13:35,586:ERROR:Request error for https://www.flipkart.com/search?q=iPhone+15: HTTPSConnectionPool(host='www.flipkart.com', port=443): Max retries exceeded with url: /search?q=iPhone+15 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000022EB21303D0>: Failed to resolve 'www.flipkart.com' ([Errno 11001] getaddrinfo failed)"))
+2024-10-08 09:13:35,587:WARNING:No prices found.
+2024-10-08 09:14:45,868:ERROR:Request error for https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss: HTTPSConnectionPool(host='www.amazon.in', port=443): Max retries exceeded with url: /s?k=iPhone+15&ref=nb_sb_noss (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000022EB2029590>: Failed to resolve 'www.amazon.in' ([Errno 11001] getaddrinfo failed)"))
+2024-10-08 09:14:45,870:ERROR:Request error for https://www.flipkart.com/search?q=iPhone+15: HTTPSConnectionPool(host='www.flipkart.com', port=443): Max retries exceeded with url: /search?q=iPhone+15 (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000022EB2131490>: Failed to resolve 'www.flipkart.com' ([Errno 11001] getaddrinfo failed)"))
+2024-10-08 09:14:45,870:WARNING:No prices found.
+2024-10-08 09:15:47,259:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss
+2024-10-08 09:15:48,512:INFO:Price found on Flipkart: \u20b958,999
+2024-10-08 09:15:48,527:INFO:Flipkart - Current price: \u20b958999.0
+2024-10-08 09:15:48,528:INFO:Lowest price found: \u20b958999.0 at Flipkart - Link: https://www.flipkart.com/search?q=iPhone+15
+2024-10-08 09:19:49,023:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+16&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+16&ref=nb_sb_noss
+2024-10-08 09:19:49,960:INFO:Price found on Flipkart: \u20b979,900
+2024-10-08 09:19:49,982:INFO:Flipkart - Current price: \u20b979900.0
+2024-10-08 09:19:49,983:INFO:Lowest price found: \u20b979900.0 at Flipkart - Link: https://www.flipkart.com/search?q=iPhone+16
+2024-10-08 09:22:28,287:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+16+pro&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+16+pro&ref=nb_sb_noss
+2024-10-08 09:22:30,703:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+16+pro&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+16+pro&ref=nb_sb_noss
+2024-10-08 09:22:33,248:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+16+pro&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+16+pro&ref=nb_sb_noss
+2024-10-08 09:22:35,891:INFO:Price found on Flipkart: \u20b91,49,900
+2024-10-08 09:22:35,906:INFO:Flipkart - Current price: \u20b9149900.0
+2024-10-08 09:22:35,907:INFO:Lowest price found: \u20b9149900.0 at Flipkart - Link: https://www.flipkart.com/search?q=iPhone+16+pro
+2024-10-08 09:30:15,196:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss
+2024-10-08 09:30:17,569:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss
+2024-10-08 09:30:19,920:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss
+2024-10-08 09:30:22,602:INFO:Price found on Flipkart: \u20b958,999
+2024-10-08 09:30:22,617:INFO:Flipkart - Current price: \u20b958999.0
+2024-10-08 09:30:22,617:INFO:Lowest price found: \u20b958999.0 at Flipkart - Link: https://www.flipkart.com/search?q=iPhone+15
+2024-10-08 09:31:07,238:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss
+2024-10-08 09:31:09,602:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss
+2024-10-08 09:31:12,134:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss
+2024-10-08 09:31:14,886:INFO:Price found on Flipkart: \u20b958,999
+2024-10-08 09:31:14,901:INFO:Flipkart - Current price: \u20b958999.0
+2024-10-08 09:31:14,902:INFO:Best Deal: \u20b958999.0 at Flipkart - Link: https://www.flipkart.com/search?q=iPhone+15
+2024-10-08 09:31:56,224:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss
+2024-10-08 09:31:56,714:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss
+2024-10-08 09:31:58,691:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss
+2024-10-08 09:32:00,237:INFO:Price found on Amazon: 69,900
+2024-10-08 09:32:00,247:INFO:Amazon - Current price: \u20b969900.0
+2024-10-08 09:32:00,846:INFO:Price found on Flipkart: \u20b958,999
+2024-10-08 09:32:00,860:INFO:Flipkart - Current price: \u20b958999.0
+2024-10-08 09:32:00,861:INFO:Best Deal: \u20b958999.0 at Flipkart - Link: https://www.flipkart.com/search?q=iPhone+15
+2024-10-08 09:32:01,148:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss
+2024-10-08 09:32:03,804:INFO:Price found on Flipkart: \u20b958,999
+2024-10-08 09:33:46,623:INFO:Price found on Amazon: 1,19,900
+2024-10-08 09:33:46,631:INFO:Amazon - Current price: \u20b9119900.0
+2024-10-08 09:33:47,374:INFO:Price found on Flipkart: \u20b91,49,900
+2024-10-08 09:33:47,391:INFO:Flipkart - Current price: \u20b9149900.0
+2024-10-08 09:33:47,391:INFO:Best Deal: \u20b9119900.0 at Amazon - Link: https://www.amazon.in/s?k=iPhone+16+pro&ref=nb_sb_noss
+2024-10-08 12:57:50,567:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss
+2024-10-08 12:57:54,283:INFO:Price found on Amazon: 69,900
+2024-10-08 12:57:54,299:INFO:Amazon - Current price: \u20b969900.0
+2024-10-08 12:57:55,061:INFO:Price found on Flipkart: \u20b958,999
+2024-10-08 12:57:55,093:INFO:Flipkart - Current price: \u20b958999.0
+2024-10-08 12:57:55,093:INFO:Best Deal: \u20b958999.0 at Flipkart - Link: https://www.flipkart.com/search?q=iPhone+15
+2024-10-08 13:13:05,353:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss
+2024-10-08 13:13:07,674:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss
+2024-10-08 13:13:10,003:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+15&ref=nb_sb_noss
+2024-10-08 13:13:12,937:INFO:Price found on Flipkart: \u20b958,999
+2024-10-08 13:13:12,955:INFO:Flipkart - Current price: \u20b958999.0
+2024-10-08 13:13:12,955:INFO:Best Deal: \u20b958999.0 at Flipkart - Link: https://www.flipkart.com/search?q=iPhone+15
+2024-10-08 13:13:29,310:ERROR:HTTP error occurred for https://www.amazon.in/s?k=JBL+Tune+760NC&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=JBL+Tune+760NC&ref=nb_sb_noss
+2024-10-08 13:13:31,632:ERROR:HTTP error occurred for https://www.amazon.in/s?k=JBL+Tune+760NC&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=JBL+Tune+760NC&ref=nb_sb_noss
+2024-10-08 13:13:33,955:ERROR:HTTP error occurred for https://www.amazon.in/s?k=JBL+Tune+760NC&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=JBL+Tune+760NC&ref=nb_sb_noss
+2024-10-08 13:13:36,670:INFO:Price found on Flipkart: \u20b96,399
+2024-10-08 13:13:36,705:INFO:Flipkart - Current price: \u20b96399.0
+2024-10-08 13:13:36,705:INFO:Best Deal: \u20b96399.0 at Flipkart - Link: https://www.flipkart.com/search?q=JBL+Tune+760NC
+2024-10-08 13:13:58,464:ERROR:HTTP error occurred for https://www.amazon.in/s?k=JBL+Tune+760NC&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=JBL+Tune+760NC&ref=nb_sb_noss
+2024-10-08 13:14:00,927:ERROR:HTTP error occurred for https://www.amazon.in/s?k=JBL+Tune+760NC&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=JBL+Tune+760NC&ref=nb_sb_noss
+2024-10-08 13:14:03,355:ERROR:HTTP error occurred for https://www.amazon.in/s?k=JBL+Tune+760NC&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=JBL+Tune+760NC&ref=nb_sb_noss
+2024-10-08 13:14:05,996:INFO:Price found on Flipkart: \u20b96,399
+2024-10-08 13:14:06,021:INFO:Flipkart - Current price: \u20b96399.0
+2024-10-08 13:14:06,021:INFO:Best Deal: \u20b96399.0 at Flipkart - Link: https://www.flipkart.com/search?q=JBL+Tune+760NC
+2024-10-08 13:14:15,802:ERROR:HTTP error occurred for https://www.amazon.in/s?k=JBL+Tune+760NC&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=JBL+Tune+760NC&ref=nb_sb_noss
+2024-10-08 13:14:18,325:ERROR:HTTP error occurred for https://www.amazon.in/s?k=JBL+Tune+760NC&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=JBL+Tune+760NC&ref=nb_sb_noss
+2024-10-08 13:14:20,890:ERROR:HTTP error occurred for https://www.amazon.in/s?k=JBL+Tune+760NC&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=JBL+Tune+760NC&ref=nb_sb_noss
+2024-10-08 13:14:23,497:INFO:Price found on Flipkart: \u20b96,399
+2024-10-08 13:14:23,513:INFO:Flipkart - Current price: \u20b96399.0
+2024-10-08 13:14:23,513:INFO:Best Deal: \u20b96399.0 at Flipkart - Link: https://www.flipkart.com/search?q=JBL+Tune+760NC
+2024-10-08 14:17:57,742:INFO:Price found on Amazon: 42,999
+2024-10-08 14:17:57,759:INFO:Amazon - Current price: \u20b942999.0
+2024-10-08 14:17:58,491:INFO:Price found on Flipkart: \u20b940,999
+2024-10-08 14:17:58,523:INFO:Flipkart - Current price: \u20b940999.0
+2024-10-08 14:17:58,523:INFO:Best Deal: \u20b940999.0 at Flipkart - Link: https://www.flipkart.com/search?q=iPhone+13
+2024-10-08 14:29:09,279:INFO:Price found on Amazon: 1,29,900
+2024-10-08 14:29:09,295:INFO:Amazon - Current price: \u20b9129900.0
+2024-10-08 14:29:10,035:INFO:Price found on Flipkart: \u20b91,64,900
+2024-10-08 14:29:10,084:INFO:Flipkart - Current price: \u20b9164900.0
+2024-10-08 14:29:10,084:INFO:Best Deal: \u20b9129900.0 at Amazon - Link: https://www.amazon.in/s?k=iPhone+14+pro+max&ref=nb_sb_noss
+2024-10-08 16:08:47,692:ERROR:Request error for https://www.amazon.in/s?k=iPhone+14+pro+max&ref=nb_sb_noss: HTTPSConnectionPool(host='www.amazon.in', port=443): Max retries exceeded with url: /s?k=iPhone+14+pro+max&ref=nb_sb_noss (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001E5C4DD6250>: Failed to resolve 'www.amazon.in' ([Errno 11001] getaddrinfo failed)"))
+2024-10-08 16:08:49,728:ERROR:Request error for https://www.amazon.in/s?k=iPhone+14+pro+max&ref=nb_sb_noss: HTTPSConnectionPool(host='www.amazon.in', port=443): Max retries exceeded with url: /s?k=iPhone+14+pro+max&ref=nb_sb_noss (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001E5C4DD9850>: Failed to resolve 'www.amazon.in' ([Errno 11001] getaddrinfo failed)"))
+2024-10-08 16:08:51,739:ERROR:Request error for https://www.amazon.in/s?k=iPhone+14+pro+max&ref=nb_sb_noss: HTTPSConnectionPool(host='www.amazon.in', port=443): Max retries exceeded with url: /s?k=iPhone+14+pro+max&ref=nb_sb_noss (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001E5C4DDB750>: Failed to resolve 'www.amazon.in' ([Errno 11001] getaddrinfo failed)"))
+2024-10-08 16:08:53,740:ERROR:Request error for https://www.flipkart.com/search?q=iPhone+14+pro+max: HTTPSConnectionPool(host='www.flipkart.com', port=443): Max retries exceeded with url: /search?q=iPhone+14+pro+max (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001E5C4DD8990>: Failed to resolve 'www.flipkart.com' ([Errno 11001] getaddrinfo failed)"))
+2024-10-08 16:08:55,749:ERROR:Request error for https://www.flipkart.com/search?q=iPhone+14+pro+max: HTTPSConnectionPool(host='www.flipkart.com', port=443): Max retries exceeded with url: /search?q=iPhone+14+pro+max (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001E5C4DDB2D0>: Failed to resolve 'www.flipkart.com' ([Errno 11001] getaddrinfo failed)"))
+2024-10-08 16:08:57,754:ERROR:Request error for https://www.flipkart.com/search?q=iPhone+14+pro+max: HTTPSConnectionPool(host='www.flipkart.com', port=443): Max retries exceeded with url: /search?q=iPhone+14+pro+max (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x000001E5C4DD6350>: Failed to resolve 'www.flipkart.com' ([Errno 11001] getaddrinfo failed)"))
+2024-10-08 16:08:59,757:WARNING:No prices found.
+2024-10-08 16:09:43,557:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+14+pro+max&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+14+pro+max&ref=nb_sb_noss
+2024-10-08 16:09:45,905:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+14+pro+max&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+14+pro+max&ref=nb_sb_noss
+2024-10-08 16:09:48,516:ERROR:HTTP error occurred for https://www.amazon.in/s?k=iPhone+14+pro+max&ref=nb_sb_noss: 503 Server Error: Service Unavailable for url: https://www.amazon.in/s?k=iPhone+14+pro+max&ref=nb_sb_noss
+2024-10-08 16:09:52,006:INFO:Price found on Flipkart: \u20b91,64,900
+2024-10-08 16:09:52,040:INFO:Flipkart - Current price: \u20b9164900.0
+2024-10-08 16:09:52,040:INFO:Best Deal: \u20b9164900.0 at Flipkart - Link: https://www.flipkart.com/search?q=iPhone+14+pro+max
